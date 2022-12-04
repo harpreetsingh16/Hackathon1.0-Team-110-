@@ -4,4 +4,4 @@ Inderpreet Singh
 Gurjot Singh
 Aditya Banger
 
-for installation refer 
+ 
