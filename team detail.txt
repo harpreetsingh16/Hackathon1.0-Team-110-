@@ -1,0 +1,26 @@
+Theme:- Social Welfare
+
+Virtual Pollling Booth
+
+Team member
+1. Harpreet Singh
+2. Gurjot Singh
+3. Inderpreet Singh
+4. Aditya Banger
+
+technology used
+
+front end
+	HTML
+	CSS
+	JS
+	Bootstrap
+
+Back end
+	Node.js
+	Express.js
+	MySQL
+
+Tool used		
+	XAMPP
+	Vs Code	

@@ -1,0 +1,16 @@
+1. first of all  install Node.js
+	go to project folder and run command 'npm init'
+2. install MySQL Database
+3. install  dependices
+•	body-parser
+•	"cookie-parser
+•	"express": 
+•	"express-session"
+•	"hbs"
+•	"mysql": 
+•	"node-localstorage"
+•	"store2”
+4.  run   :-  npm i nodemon
+	After install nodemon , change the start key in scripts for packet.json file to ‘nodemon index.js’
+5. import the table of sql into the MySQL dirve.
+6. npm start 
